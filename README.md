@@ -79,8 +79,8 @@ I am a passionate **Computer Science Graduate (2022–2026)** who actually **bui
 ## 📈 Dev Matrix & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidbscs&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaid's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidbscs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=zaidbscs&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaid's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=zaidbscs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 ---
