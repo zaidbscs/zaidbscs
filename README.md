@@ -13,7 +13,7 @@
 </p>
 
 ### 🛠️ Full-Stack Web Developer | BSCS Graduate
-I am a passionate **Computer Science Graduate (2022–2026)** who actually **builds stuff**. I have engineered, optimized, and deployed 5+ full-stack web applications from scratch—handling everything from relational database design to seamless live deployment.
+I am a passionate **Computer Science Graduate (2022–2026)** who actually **builds stuff**. I have engineered, optimized, and deployed 10+ web utilities and platforms—handling everything from relational database design to seamless live deployment.
 
 > ⚡ **Looking for:** Full-Stack Internship / Junior Developer Roles in Lahore or Remotely.
 
@@ -23,7 +23,7 @@ I am a passionate **Computer Science Graduate (2022–2026)** who actually **bui
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `PHP` `JavaScript` `HTML5` `CSS3` `C++` `Python` |
+| **Languages** | `PHP` `JavaScript (ES6+)` `HTML5` `CSS3` `C++` `Python` |
 | **Backend & Databases** | `MySQL` `REST APIs` `JWT Authentication` `MongoDB` `AJAX` |
 | **Tools & Deployment** | `Git` `GitHub` `VS Code` `cPanel` `Vercel` `Render` `Heroku` |
 | **Design & Optimization** | `UI/UX Design` `Illustrator` `SEO Optimization` `AI Prompting` |
@@ -32,28 +32,43 @@ I am a passionate **Computer Science Graduate (2022–2026)** who actually **bui
 
 ## 📂 Featured Live Projects
 
-### 🌟 [AssignmentWorkZone](https://assignmentworkzone.com)
-* **Stack:** PHP, MySQL, JavaScript
-* **Core:** Assignment management ecosystem featuring file uploads, secure resource sharing, and structured role-based access management.
+### 🌐 Full-Scale Web Platforms
+* **[AssignmentWorkZone]**  
+  *PHP · MySQL · JavaScript*  
+  An assignment management ecosystem featuring secure file uploads, resource sharing dashboards, and structured role-based user access.
+* **[Past Papers Search Engine](https://papers.uniplus.click)**  
+  *PHP · MySQL · Google API*  
+  An academic archive containing over 5+ years of exam papers, utilizing optimized database filters and student contribution workflows.
+* **[Uniplus Academic Network](https://uniplus.click)**  
+  *PHP · MySQL · AJAX*  
+  A dynamic academic social platform built for university students to share campus resources and connect in real-time.
+* **[MaraSchool (Final Year Project)](https://maraschool.free.nf)**  
+  *PHP · MySQL · Android*  
+  Comprehensive school management software implementing portal views for grade reports, real-time attendance, and automated fee records.
 
-### 📚 [Past Papers Search Engine](https://papers.uniplus.click)
-* **Stack:** PHP, MySQL, Google API
-* **Core:** Academic repository housing over 5+ years of exam papers utilizing structured filters and user contribution portals.
-
-### 🌐 [Uniplus Academic Network](https://uniplus.click)
-* **Stack:** PHP, MySQL, AJAX
-* **Core:** A dynamic social platform engineered for university students to share academic resources and coordinate real-time.
-
-### 🏫 [MaraSchool (Final Year Project)](https://maraschool.free.nf)
-* **Stack:** PHP, MySQL, Android
-* **Core:** Comprehensive school management architecture implementing specific dashboards for attendance tracking, grading systems, and fee portals.
+### 🛠️ Developer Utilities & Interactive Web Apps
+* **[Google Image Search API Tool](https://zaid-bhi-google-image-search-api.vercel.app/)**  
+  *JavaScript · CSS3 · HTML5 · REST API*  
+  A sleek, responsive search application that interfaces with image databases to retrieve, filter, and present dynamic image results instantly.
+* **[Hide Messages in Emoji (Steganography)](https://zaid-bhi-hide-msg-in-emoji.vercel.app/)**  
+  *JavaScript · HTML5 · CSS3*  
+  A clever privacy utility that encodes secret plaintext messages inside innocent emojis using invisible zero-width character formatting.
+* **[Text Encryptor & Decryptor](https://zaid-bhi-text-encryptor.vercel.app/)**  
+  *JavaScript · HTML5 · CSS3*  
+  A secure client-side cryptographic string tool designed for encoding and decoding confidential custom text payloads on the fly.
+* **[Zaid-Bhi Text Styler](https://github.com/zaidbot123/zaid-bhi-text-styler)**  
+  *JavaScript · CSS3 · HTML5*  
+  A utility designed to parse, transform, and dynamically format system fonts and markdown text representations instantly for visual platforms.
+* **[Precise Age Calculator](https://zaid-bhi-calculate-age.vercel.app/)**  
+  *JavaScript · HTML5 · CSS3*  
+  A highly detailed time-parsing interface calculating exact chronological metrics down to years, months, days, and hours.
 
 ---
 
 ## 💼 Core Experience
 
 * **Full-Stack Freelance** *(2025 – Present)*  
-  Designed, developed, and launched 5+ custom web utilities emphasizing fluid user interfaces and responsive architectures.
+  Designed, developed, and launched multiple custom web utilities emphasizing fluid user interfaces and responsive architectures.
 * **Computer Operations** | *UK Company (Remote)* *(2024 – 2025)*  
   Optimized business tracking pipelines, managed core data reporting protocols, and synchronized workflows with overseas operations teams.
 * **Graphic & UI/UX Design** | *Freelance* *(2023 – 2024)*  
