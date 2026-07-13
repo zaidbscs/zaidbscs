@@ -1,101 +1,107 @@
-# Hi there, I'm Zaid Hussain! 👋
+<h1 align="center">👋 Hi, I'm Zaid Hussain</h1>
 
-<p align="left">
-  <a href="https://zaidbscs.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-zaidbscs.vercel.app-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/zaidbscs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaid%20Hussain-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zaidbscs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zaidbscs@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p align="center">
+  <a href="https://github.com/zaidbscs">
+    <img src="https://i.ibb.co/RpRyvPsQ/cs-student.gif" alt="Zaid Hussain Profile GIF" height="300" style="border-radius: 15px;">
   </a>
 </p>
 
-### 🛠️ Full-Stack Web Developer | BSCS Graduate
-I am a passionate **Computer Science Graduate (2022–2026)** who actually **builds stuff**. I have engineered, optimized, and deployed 10+ web utilities and platforms—handling everything from relational database design to seamless live deployment.
-
-> ⚡ **Looking for:** Full-Stack Internship / Junior Developer Roles in Lahore or Remotely.
-
----
-
-## 🧰 Tech Stack & Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `PHP` `JavaScript (ES6+)` `HTML5` `CSS3` `C++` `Python` |
-| **Backend & Databases** | `MySQL` `REST APIs` `JWT Authentication` `MongoDB` `AJAX` |
-| **Tools & Deployment** | `Git` `GitHub` `VS Code` `cPanel` `Vercel` `Render` `Heroku` |
-| **Design & Optimization** | `UI/UX Design` `Illustrator` `SEO Optimization` `AI Prompting` |
+<p align="center">
+  <a href="https://github.com/zaidbscs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=550&lines=BSCS+Graduate+%7C+Full+Stack+Developer;Building+Web+Apps+%26+Database+Architectures;PHP+%7C+MySQL+%7C+JavaScript+%7C+Python" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 📂 Featured Live Projects
+## 📌 About Me
 
-### 🌐 Full-Scale Web Platforms
-* **[AssignmentWorkZone]**  
-  *PHP · MySQL · JavaScript*  
-  An assignment management ecosystem featuring secure file uploads, resource sharing dashboards, and structured role-based user access.
-* **[Past Papers Search Engine](https://papers.uniplus.click)**  
-  *PHP · MySQL · Google API*  
-  An academic archive containing over 5+ years of exam papers, utilizing optimized database filters and student contribution workflows.
-* **[Uniplus Academic Network](https://uniplus.click)**  
-  *PHP · MySQL · AJAX*  
-  A dynamic academic social platform built for university students to share campus resources and connect in real-time.
-* **[MaraSchool (Final Year Project)](https://maraschool.free.nf)**  
-  *PHP · MySQL · Android*  
-  Comprehensive school management software implementing portal views for grade reports, real-time attendance, and automated fee records.
-
-### 🛠️ Developer Utilities & Interactive Web Apps
-* **[Google Image Search API Tool](https://zaid-bhi-google-image-search-api.vercel.app/)**  
-  *JavaScript · CSS3 · HTML5 · REST API*  
-  A sleek, responsive search application that interfaces with image databases to retrieve, filter, and present dynamic image results instantly.
-* **[Hide Messages in Emoji (Steganography)](https://zaid-bhi-hide-msg-in-emoji.vercel.app/)**  
-  *JavaScript · HTML5 · CSS3*  
-  A clever privacy utility that encodes secret plaintext messages inside innocent emojis using invisible zero-width character formatting.
-* **[Text Encryptor & Decryptor](https://zaid-bhi-text-encryptor.vercel.app/)**  
-  *JavaScript · HTML5 · CSS3*  
-  A secure client-side cryptographic string tool designed for encoding and decoding confidential custom text payloads on the fly.
-* **[Zaid-Bhi Text Styler](https://github.com/zaidbot123/zaid-bhi-text-styler)**  
-  *JavaScript · CSS3 · HTML5*  
-  A utility designed to parse, transform, and dynamically format system fonts and markdown text representations instantly for visual platforms.
-* **[Precise Age Calculator](https://zaid-bhi-calculate-age.vercel.app/)**  
-  *JavaScript · HTML5 · CSS3*  
-  A highly detailed time-parsing interface calculating exact chronological metrics down to years, months, days, and hours.
+- 🎓 **BS Computer Science Graduate** (2022–2026) passionate about building real things that scale.
+- 🔭 Engineered and launched **10+ web utilities and core management platforms** from scratch.
+- ⚡ Experienced in everything from **relational database architecture** to production live deployment.
+- 💼 Currently looking for a **Full-Stack Internship** or **Junior Developer** role in Lahore or remotely.
+- 📍 Based in **Narowal / Lahore, Punjab, Pakistan**.
+- 📫 Reach me directly at: **zaidbscs@gmail.com** or **+92 319-7656625**.
 
 ---
 
-## 💼 Core Experience
+## 🛠️ Tech Stack
 
-* **Full-Stack Freelance** *(2025 – Present)*  
-  Designed, developed, and launched multiple custom web utilities emphasizing fluid user interfaces and responsive architectures.
-* **Computer Operations** | *UK Company (Remote)* *(2024 – 2025)*  
-  Optimized business tracking pipelines, managed core data reporting protocols, and synchronized workflows with overseas operations teams.
-* **Graphic & UI/UX Design** | *Freelance* *(2023 – 2024)*  
-  Prototyped application experiences and crafted conversion-oriented graphic components across client industries.
+**Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend, Databases & Integrations**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00A3FF?style=flat-square&logo=google-cloud&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=flat-square&logo=javascript&logoColor=white)
+
+**Cloud & Deployment Environments**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+
+**🎨 Tools & Design Core**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://zaidbscs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/zaidbscs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:zaidbscs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/zaidbscs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+## 📂 Featured Portfolios & Apps
+
+### 🌐 Full-Scale Custom Environments
+* **[AssignmentWorkZone](https://assignmentworkzone.com)** — Ecosystem featuring secure file storage, dynamic academic resource distribution, and rigorous user-role validation profiles.
+* **[Past Papers Indexing Engine](https://papers.uniplus.click)** — Digital archive containing over 5+ years of historical exam materials driven by fast relational filters and user uploads.
+* **[Uniplus Connect](https://uniplus.click)** — Student social utility optimization project maximizing peer networking capabilities and local campus asset sharing using async workflows.
+* **[MaraSchool (Final Year Project)](https://maraschool.free.nf)** — Deep integrated multi-portal architecture tracking student performance registries, grading arrays, and interactive financial fee modules.
+
+### 🛠️ Utilities & Developer Interaction Elements
+* **[Google Image API Utility](https://zaid-bhi-google-image-search-api.vercel.app/)** — Smooth responsive frontend rendering layout communicating fluidly with target structural endpoints.
+* **[Zero-Width Character Emoji Encoder](https://zaid-bhi-hide-msg-in-emoji.vercel.app/)** — Modern steganographic utility mapping data silently inside surface emojis.
+* **[Text Encryptor Matrix](https://zaid-bhi-text-encryptor.vercel.app/)** — High conversion client-side logic translating core payload tracking formats directly into isolated cipher text string formats.
+* **[Zaid-Bhi Custom Markdown Text Styler](https://github.com/zaidbot123/zaid-bhi-text-styler)** — Lightweight parser formatting strings dynamically for visual text layouts.
+* **[Precise Temporal Age Calculator](https://zaid-bhi-calculate-age.vercel.app/)** — Clean calendar calculation utility outputting exact parameters split explicitly across standard metrics.
 
 ---
 
 ## 📈 Dev Matrix & Analytics
 
-<p align="left">
-  <!-- Mock Core Stats Card -->
-  <img src="https://img.shields.io/badge/GitHub%20Stats-zaidbscs-7ab0df?style=flat-square&logo=github&labelColor=1a1a2e&title=GitHub%20Stats&text=Stars%205%20%7C%20Commits%20320%20%7C%20PRs%2012&color=2563eb" height="40" alt="GitHub Stats" />
+<p align="center">
+  <!-- Mock Core Unbreakable Metric Indicator Summary Card -->
+  <img src="https://img.shields.io/badge/GitHub%20Stats-zaidbscs-7ab0df?style=flat-square&logo=github&labelColor=1a1a2e&text=Stars%205%20%7C%20Commits%20450%20%7C%20Total%20Repositories%2046&color=2563eb" height="40" alt="GitHub Stats Summary" />
 </p>
 
-<p align="left">
-  <!-- Static Language Breakdown Badges -->
-  <img src="https://img.shields.io/badge/PHP-52.4%25-8892bf?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-28.1%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-12.5%25-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-7.0%25-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+<p align="center">
+  <!-- Master Competency Breakdown Distribution Profile Metrics Array -->
+  <img src="https://img.shields.io/badge/PHP_Core-Expert_100%25-2563eb?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced_90%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-Advanced_90%25-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Proficient_75%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Proficient_70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🎓 Certifications
-* 🎖️ **PHP/MySQL Developer Certification** (2025)
-* 🎖️ **Responsive Web Design** (freeCodeCamp - 2023)
-* 🎖️ **Graphics Design Masterclass** (2022)
+## 💡 Fun Fact
 
-<p align="center">🤝 <i>Let's build something brilliant together. Reach out via email or LinkedIn!</i></p>
+> "Everyone looking at my apps thinks I just use templates... until they open up my database configurations and find clean relational architectures running the entire show!" 💻⚙️
