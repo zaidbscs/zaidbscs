@@ -104,4 +104,4 @@
 
 ## 💡 Fun Fact
 
-> "Everyone looking at my apps thinks I just use templates... until they open up my database configurations and find clean relational architectures running the entire show!" 💻⚙️
+> "I actually started my tech journey creating UI designs in Adobe Illustrator, but I loved them so much I decided to become a Full-Stack developer just to bring my own visuals to life. While my university courses were teaching theory, I was busy building and deploying live platforms like Uniplus and AssignmentWorkZone to see how real-world traffic handles a backend!" 🎨🚀
