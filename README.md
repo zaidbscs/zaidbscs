@@ -79,8 +79,16 @@ I am a passionate **Computer Science Graduate (2022–2026)** who actually **bui
 ## 📈 Dev Matrix & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=zaidbscs&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaid's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=zaidbscs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <!-- Mock Core Stats Card -->
+  <img src="https://img.shields.io/badge/GitHub%20Stats-zaidbscs-7ab0df?style=flat-square&logo=github&labelColor=1a1a2e&title=GitHub%20Stats&text=Stars%205%20%7C%20Commits%20320%20%7C%20PRs%2012&color=2563eb" height="40" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <!-- Static Language Breakdown Badges -->
+  <img src="https://img.shields.io/badge/PHP-52.4%25-8892bf?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-28.1%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-12.5%25-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-7.0%25-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
